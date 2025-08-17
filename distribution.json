@@ -116,23 +116,23 @@
           ]
         },
         {
-          "id": "me.shedaniel.autoconfig.example:cloth-config:15.0.140@jar",
-          "name": "Cloth Config v15",
+          "id": "me.shedaniel.autoconfig.example:cloth-config:16.0.143@jar",
+          "name": "Cloth Config v16",
           "type": "FabricMod",
           "artifact": {
-            "size": 1157166,
-            "url": "https://glape3333.github.io/goldenbell/servers/goldenbell-1.21.3/fabricmods/required/cloth-config-15.0.140-fabric.jar",
-            "MD5": "a2c091b027ad6ba8e54b07020fd45884"
+            "size": 1150490,
+            "url": "https://glape3333.github.io/goldenbell/servers/goldenbell-1.21.3/fabricmods/required/cloth-config-16.0.143-fabric.jar",
+            "MD5": "780accf5d57c7b3cd3a40dc42fd3daea"
           }
         },
         {
-          "id": "generated.fabricmod:fabric-api:0.116.4+1.21.1@jar",
+          "id": "generated.fabricmod:fabric-api:0.114.1+1.21.3@jar",
           "name": "Fabric API",
           "type": "FabricMod",
           "artifact": {
-            "size": 2423497,
-            "url": "https://glape3333.github.io/goldenbell/servers/goldenbell-1.21.3/fabricmods/required/fabric-api-0.116.4+1.21.1.jar",
-            "MD5": "aa1660d1af25eb18790182753f977615"
+            "size": 2380714,
+            "url": "https://glape3333.github.io/goldenbell/servers/goldenbell-1.21.3/fabricmods/required/fabric-api-0.114.1+1.21.3.jar",
+            "MD5": "7d323bfa662e68e8cd340f9a84312d39"
           }
         },
         {
@@ -146,43 +146,43 @@
           }
         },
         {
-          "id": "generated.fabricmod:iris:1.8.8+mc1.21.1@jar",
+          "id": "generated.fabricmod:iris:1.8.1+mc1.21.3@jar",
           "name": "Iris",
           "type": "FabricMod",
           "artifact": {
-            "size": 2690177,
-            "url": "https://glape3333.github.io/goldenbell/servers/goldenbell-1.21.3/fabricmods/required/iris-fabric-1.8.8+mc1.21.1.jar",
-            "MD5": "1179fe09b9ba970e84ed59259adfe65a"
+            "size": 2663618,
+            "url": "https://glape3333.github.io/goldenbell/servers/goldenbell-1.21.3/fabricmods/required/iris-fabric-1.8.1+mc1.21.3.jar",
+            "MD5": "1987e6badf2a780cac8d73a75613b2ae"
           }
         },
         {
-          "id": "net.caffeinemc.mods:sodium:0.6.13+mc1.21.1@jar",
+          "id": "net.caffeinemc.mods:sodium:0.6.1+mc1.21.3@jar",
           "name": "Sodium",
           "type": "FabricMod",
           "artifact": {
-            "size": 1297761,
-            "url": "https://glape3333.github.io/goldenbell/servers/goldenbell-1.21.3/fabricmods/required/sodium-fabric-0.6.13+mc1.21.1.jar",
-            "MD5": "aa37ba0048a1af6b554b137088cad484"
+            "size": 1289984,
+            "url": "https://glape3333.github.io/goldenbell/servers/goldenbell-1.21.3/fabricmods/required/sodium-fabric-0.6.1+mc1.21.3.jar",
+            "MD5": "848de2edec7256c0ce2dbe2e61a0936c"
           }
         },
         {
-          "id": "dev.isxander.yacl3.platform:yet_another_config_lib_v3:3.7.1+1.21.1-fabric@jar",
+          "id": "dev.isxander.yacl3.platform:yet_another_config_lib_v3:3.7.1+1.21.3-fabric@jar",
           "name": "YetAnotherConfigLib",
           "type": "FabricMod",
           "artifact": {
-            "size": 1123593,
-            "url": "https://glape3333.github.io/goldenbell/servers/goldenbell-1.21.3/fabricmods/required/yet_another_config_lib_v3-3.7.1+1.21.1-fabric.jar",
-            "MD5": "a2c370f9814a02ec3fcd82db20b70e18"
+            "size": 1123171,
+            "url": "https://glape3333.github.io/goldenbell/servers/goldenbell-1.21.3/fabricmods/required/yet_another_config_lib_v3-3.7.1+1.21.3-fabric.jar",
+            "MD5": "21bd50c7213c513173aa081396145b61"
           }
         },
         {
-          "id": "dev.isxander:zoomify:2.14.4+1.21.1@jar",
+          "id": "dev.isxander:zoomify:2.14.4+1.21.3@jar",
           "name": "Zoomify",
           "type": "FabricMod",
           "artifact": {
-            "size": 807825,
-            "url": "https://glape3333.github.io/goldenbell/servers/goldenbell-1.21.3/fabricmods/required/Zoomify-2.14.4+1.21.1.jar",
-            "MD5": "ddeab985c6529935da575b50eb0ffe1f"
+            "size": 807873,
+            "url": "https://glape3333.github.io/goldenbell/servers/goldenbell-1.21.3/fabricmods/required/Zoomify-2.14.4+1.21.3.jar",
+            "MD5": "bb14541318bc9fdb71e32c9e37f60057"
           }
         },
         {
