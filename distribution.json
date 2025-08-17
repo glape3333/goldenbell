@@ -1,0 +1,235 @@
+{
+  "version": "1.0.0",
+  "rss": "<LINK TO RSS FEED>",
+  "discord": {
+    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+  },
+  "servers": [
+    {
+      "id": "goldenbell-1.21.3",
+      "name": "goldenbell (Minecraft 1.21.3)",
+      "description": "goldenbell Running Minecraft 1.21.3 (Fabric v0.16.13)",
+      "icon": null,
+      "version": "1.0.0",
+      "address": "210.117.43.102",
+      "minecraftVersion": "1.21.3",
+      "discord": {
+        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+      },
+      "mainServer": true,
+      "autoconnect": true,
+      "modules": [
+        {
+          "id": "net.fabricmc:fabric-loader:0.16.13",
+          "name": "Fabric (fabric-loader)",
+          "type": "Fabric",
+          "artifact": {
+            "size": 1387633,
+            "MD5": "5cffbeb4848a035ce735295b1cc0e7fa",
+            "url": "https://glape3333.github.io/goldenbell/repo/lib/net/fabricmc/fabric-loader/0.16.13/fabric-loader-0.16.13.jar"
+          },
+          "subModules": [
+            {
+              "id": "1.21.3-fabric-0.16.13",
+              "name": "Fabric (version.json)",
+              "type": "VersionManifest",
+              "artifact": {
+                "size": 2859,
+                "MD5": "7b3d637570364f6e4d7704f58232fa58",
+                "url": "https://glape3333.github.io/goldenbell/repo/versions/1.21.3-fabric-0.16.13/1.21.3-fabric-0.16.13.json"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm:9.7.1",
+              "name": "Fabric (asm)",
+              "type": "Library",
+              "artifact": {
+                "size": 126093,
+                "MD5": "e2cdd32d198ad31427d298eee9d39d8d",
+                "url": "https://glape3333.github.io/goldenbell/repo/lib/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-analysis:9.7.1",
+              "name": "Fabric (asm-analysis)",
+              "type": "Library",
+              "artifact": {
+                "size": 35126,
+                "MD5": "4cd9e7178dfb85371bba3077e40cd514",
+                "url": "https://glape3333.github.io/goldenbell/repo/lib/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-commons:9.7.1",
+              "name": "Fabric (asm-commons)",
+              "type": "Library",
+              "artifact": {
+                "size": 73459,
+                "MD5": "8344aea3c8b7d707e9d35a62710e77c9",
+                "url": "https://glape3333.github.io/goldenbell/repo/lib/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-tree:9.7.1",
+              "name": "Fabric (asm-tree)",
+              "type": "Library",
+              "artifact": {
+                "size": 51939,
+                "MD5": "e85029f613b6469989cc7cf53fe06b74",
+                "url": "https://glape3333.github.io/goldenbell/repo/lib/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-util:9.7.1",
+              "name": "Fabric (asm-util)",
+              "type": "Library",
+              "artifact": {
+                "size": 94519,
+                "MD5": "36d373a9cd6cad9b35db9f984c6b4bbb",
+                "url": "https://glape3333.github.io/goldenbell/repo/lib/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
+              }
+            },
+            {
+              "id": "net.fabricmc:sponge-mixin:0.15.4+mixin.0.8.7",
+              "name": "Fabric (sponge-mixin)",
+              "type": "Library",
+              "artifact": {
+                "size": 1494834,
+                "MD5": "991ca8be2c408fe19eb64014d8a18243",
+                "url": "https://glape3333.github.io/goldenbell/repo/lib/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
+              }
+            },
+            {
+              "id": "net.fabricmc:intermediary:1.21.3",
+              "name": "Fabric (intermediary)",
+              "type": "Library",
+              "artifact": {
+                "size": 693060,
+                "MD5": "bc6edae1133bf23325898da22d9eff90",
+                "url": "https://glape3333.github.io/goldenbell/repo/lib/net/fabricmc/intermediary/1.21.3/intermediary-1.21.3.jar"
+              }
+            }
+          ]
+        },
+        {
+          "id": "me.shedaniel.autoconfig.example:cloth-config:15.0.140@jar",
+          "name": "Cloth Config v15",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1157166,
+            "url": "https://glape3333.github.io/goldenbell/servers/goldenbell-1.21.3/fabricmods/required/cloth-config-15.0.140-fabric.jar",
+            "MD5": "a2c091b027ad6ba8e54b07020fd45884"
+          }
+        },
+        {
+          "id": "generated.fabricmod:fabric-api:0.116.4+1.21.1@jar",
+          "name": "Fabric API",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2423497,
+            "url": "https://glape3333.github.io/goldenbell/servers/goldenbell-1.21.3/fabricmods/required/fabric-api-0.116.4+1.21.1.jar",
+            "MD5": "aa1660d1af25eb18790182753f977615"
+          }
+        },
+        {
+          "id": "generated.fabricmod:fabric-language-kotlin:1.13.4+kotlin.2.2.0@jar",
+          "name": "Fabric Language Kotlin",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 7387359,
+            "url": "https://glape3333.github.io/goldenbell/servers/goldenbell-1.21.3/fabricmods/required/fabric-language-kotlin-1.13.4+kotlin.2.2.0.jar",
+            "MD5": "5edf1cfa6574e3e1e38c2e4f1b5a557e"
+          }
+        },
+        {
+          "id": "generated.fabricmod:iris:1.8.8+mc1.21.1@jar",
+          "name": "Iris",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2690177,
+            "url": "https://glape3333.github.io/goldenbell/servers/goldenbell-1.21.3/fabricmods/required/iris-fabric-1.8.8+mc1.21.1.jar",
+            "MD5": "1179fe09b9ba970e84ed59259adfe65a"
+          }
+        },
+        {
+          "id": "net.caffeinemc.mods:sodium:0.6.13+mc1.21.1@jar",
+          "name": "Sodium",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1297761,
+            "url": "https://glape3333.github.io/goldenbell/servers/goldenbell-1.21.3/fabricmods/required/sodium-fabric-0.6.13+mc1.21.1.jar",
+            "MD5": "aa37ba0048a1af6b554b137088cad484"
+          }
+        },
+        {
+          "id": "dev.isxander.yacl3.platform:yet_another_config_lib_v3:3.7.1+1.21.1-fabric@jar",
+          "name": "YetAnotherConfigLib",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1123593,
+            "url": "https://glape3333.github.io/goldenbell/servers/goldenbell-1.21.3/fabricmods/required/yet_another_config_lib_v3-3.7.1+1.21.1-fabric.jar",
+            "MD5": "a2c370f9814a02ec3fcd82db20b70e18"
+          }
+        },
+        {
+          "id": "dev.isxander:zoomify:2.14.4+1.21.1@jar",
+          "name": "Zoomify",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 807825,
+            "url": "https://glape3333.github.io/goldenbell/servers/goldenbell-1.21.3/fabricmods/required/Zoomify-2.14.4+1.21.1.jar",
+            "MD5": "ddeab985c6529935da575b50eb0ffe1f"
+          }
+        },
+        {
+          "id": "iris.properties",
+          "name": "iris.properties",
+          "type": "File",
+          "artifact": {
+            "size": 288,
+            "url": "https://glape3333.github.io/goldenbell/servers/goldenbell-1.21.3/files/config/iris.properties",
+            "MD5": "4c415910477a1b6c206fa71ff73800a0",
+            "path": "config/iris.properties"
+          }
+        },
+        {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 3876,
+            "url": "https://glape3333.github.io/goldenbell/servers/goldenbell-1.21.3/files/options.txt",
+            "MD5": "a04de1e3b24a2e3c938375f9f5caf733",
+            "path": "options.txt"
+          }
+        },
+        {
+          "id": "ComplementaryUnbound_r5.1.1.zip",
+          "name": "ComplementaryUnbound_r5.1.1.zip",
+          "type": "File",
+          "artifact": {
+            "size": 409957,
+            "url": "https://glape3333.github.io/goldenbell/servers/goldenbell-1.21.3/files/shaderpacks/ComplementaryUnbound_r5.1.1.zip",
+            "MD5": "da7fc4c86b12e65f4f70b3a9aaabae90",
+            "path": "shaderpacks/ComplementaryUnbound_r5.1.1.zip"
+          }
+        },
+        {
+          "id": "ComplementaryUnbound_r5.1.1.zip.txt",
+          "name": "ComplementaryUnbound_r5.1.1.zip.txt",
+          "type": "File",
+          "artifact": {
+            "size": 52,
+            "url": "https://glape3333.github.io/goldenbell/servers/goldenbell-1.21.3/files/shaderpacks/ComplementaryUnbound_r5.1.1.zip.txt",
+            "MD5": "db598fc3c643c4487f77004b4e5e168d",
+            "path": "shaderpacks/ComplementaryUnbound_r5.1.1.zip.txt"
+          }
+        }
+      ]
+    }
+  ]
+}
