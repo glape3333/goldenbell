@@ -197,13 +197,23 @@
           }
         },
         {
+          "id": "generated.zip",
+          "name": "generated.zip",
+          "type": "File",
+          "artifact": {
+            "size": 3713893,
+            "url": "https://glape3333.github.io/goldenbell/servers/goldenbell-1.21.3/files/resourcepacks/generated.zip",
+            "MD5": "a04de1e3b24a2e3c938375f9f5caf733",
+            "path": "resourcepacks/generated.zip"
+          }
+        },
+        {
           "id": "options.txt",
           "name": "options.txt",
           "type": "File",
           "artifact": {
             "size": 3876,
             "url": "https://glape3333.github.io/goldenbell/servers/goldenbell-1.21.3/files/options.txt",
-            "MD5": "a04de1e3b24a2e3c938375f9f5caf733",
             "path": "options.txt"
           }
         },
