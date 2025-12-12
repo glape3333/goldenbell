@@ -126,6 +126,16 @@
           }
         },
         {
+          "id": "jp.axer.cocoainput.loader:cocoainput:4.4.1-EXPERIMENTAL@jar",
+          "name": "CocoaInput",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 138660,
+            "url": "https://glape3333.github.io/goldenbell/servers/goldenbell-1.21.3/fabricmods/required/CocoaInput-1.20.5-fabric-4.4.1-EXPERIMENTAL.jar",
+            "MD5": "d522001f43d4b5d20dee88cac01201a0"
+          }
+        },
+        {
           "id": "generated.fabricmod:fabric-api:0.114.1+1.21.3@jar",
           "name": "Fabric API",
           "type": "FabricMod",
@@ -153,6 +163,16 @@
             "size": 2663618,
             "url": "https://glape3333.github.io/goldenbell/servers/goldenbell-1.21.3/fabricmods/required/iris-fabric-1.8.1+mc1.21.3.jar",
             "MD5": "1987e6badf2a780cac8d73a75613b2ae"
+          }
+        },
+        {
+          "id": "su.plo.voice:plasmovoice:2.1.7@jar",
+          "name": "Plasmo Voice",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 12213111,
+            "url": "https://glape3333.github.io/goldenbell/servers/goldenbell-1.21.3/fabricmods/required/plasmovoice-fabric-1.21.3-2.1.7.jar",
+            "MD5": "eb2a2599a9a59eeb39f87971885f90e9"
           }
         },
         {
