@@ -52,7 +52,6 @@ highContrast:false
 highContrastBlockOutline:false
 narratorHotkey:true
 resourcePacks:["vanilla","fabric","file/generated.zip"]
-
 incompatibleResourcePacks:[]
 lastServer:
 lang:ko_kr
@@ -147,3 +146,4 @@ modelPart_right_sleeve:true
 modelPart_left_pants_leg:true
 modelPart_right_pants_leg:true
 modelPart_hat:true
+
