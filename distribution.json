@@ -166,13 +166,13 @@
           }
         },
         {
-          "id": "su.plo.voice:plasmovoice:2.1.7@jar",
-          "name": "Plasmo Voice",
+          "id": "de.maxhenkel:voicechat:1.21.3-2.5.26@jar",
+          "name": "Simple Voice Chat",
           "type": "FabricMod",
           "artifact": {
-            "size": 12213111,
-            "url": "https://glape3333.github.io/goldenbell/servers/goldenbell-1.21.3/fabricmods/required/plasmovoice-fabric-1.21.3-2.1.7.jar",
-            "MD5": "eb2a2599a9a59eeb39f87971885f90e9"
+            "size": 6590623,
+            "url": "https://glape3333.github.io/goldenbell/servers/goldenbell-1.21.3/fabricmods/required/voicechat-fabric-1.21.3-2.5.26.jar",
+            "MD5": "7871c6dcae18ccb16068b839f26d7a56"
           }
         },
         {
