@@ -51,7 +51,8 @@ damageTiltStrength:1.0
 highContrast:false
 highContrastBlockOutline:false
 narratorHotkey:true
-resourcePacks:["fabric"]
+resourcePacks:["vanilla","fabric","file/generated.zip"]
+
 incompatibleResourcePacks:[]
 lastServer:
 lang:ko_kr
