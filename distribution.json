@@ -13,7 +13,7 @@
       "description": "goldenbell Running Minecraft 1.21.3 (Fabric v0.16.13)",
       "icon": null,
       "version": "1.0.0",
-      "address": "210.117.43.102",
+      "address": "minecraft.koo.wiki:25566",
       "minecraftVersion": "1.21.3",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
